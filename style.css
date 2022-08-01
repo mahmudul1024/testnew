@@ -14,31 +14,22 @@ nav a.active {
   }
 
 
+  @media only screen and (max-width: 600px) {
+
+    
+
+    .fa-facebook,.fa-linkedin{
+      margin-right: 50px ;
+    }
+
+
+  }
+
     
   
 
  
 
-
-  /* navigation style complete */
-
-
-
-  /* carousel start-----------------------------------
-   */
-
-/* .backcolor{
-    background-color: #FEEAE9;   
-    
-    
-}
-
-.carousel-item{
-  padding: 20px 40px;
-} */
-
-
- /* problem with white corner ******************************************  */
 
 
  
